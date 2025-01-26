@@ -1,30 +1,30 @@
 [
 
     {
-        "question": "Pressure head is given by",
+        "question": "The characteristic length of slab with thickness 'b' is given by",
         "qid": 1,
-        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
-        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
-        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
-        "option_d": "$$ z $$",
-        "correct_option": "c"
+        "option_a": "$$ L =\\frac{2}{b} ",
+        "option_b": "$$ L =\\frac{b}{3} $$",
+        "option_c": "$$ L =\\frac{3}{b} $$",
+        "option_d": "$$ L =\\frac{b}{2} $$",
+        "correct_option": "d"
     },
     {
-        "question": "Velocity head is given by",
+        "question": "The biot number is given by",
         "qid": 2,
-        "option_a": "$$ \\frac{v^2}{2g} $$",
-        "option_b": "$$ \\frac{v^2}{2} $$",
-        "option_c": "$$ \\frac{v^2}{g} $$",  
-        "option_d": "$$ \\frac{v^2}{2g} + z $$",
-        "correct_option": "a"
+        "option_a": "$$ Bi = \\frac{1}{hL} $$",
+        "option_b": "$$ Bi = \\frac{hL}{k} $$",
+        "option_c": "$$ Bi = \\frac{1}{k} $$",  
+        "option_d": "$$ Bi = \\frac{k}{hL}$$",
+        "correct_option": "b"
     },
     {
-        "question": "The direction of the flow is dictated by",
+        "question": "Fourier number is given by",
         "qid": 3,
-        "option_a": "Pressure head",
-        "option_b": "Velocity head",
-        "option_c": "Total head",
-        "option_d": "Potential head",
-        "correct_option": "c"
+        "option_a": "$$ Fo = \\frac{\\alphat}{L^2} $$",
+        "option_b": "$$ Fo = \\frac{\\alpha}{L^2} $$",
+        "option_c": "$$ Fo = \\frac{t}{L^2} $$",
+        "option_d": "$$ Fo = \\frac{L^2}{\\alphat}$$",
+        "correct_option": "a"
     }
 ]
