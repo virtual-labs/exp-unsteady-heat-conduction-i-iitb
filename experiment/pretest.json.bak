@@ -1,0 +1,30 @@
+[
+
+    {
+        "question": "The characteristic length of slab with thickness 'b' is given by",
+        "qid": 1,
+        "option_a": "$$ L =\\frac{2}{b} $$",
+        "option_b": "$$ L =\\frac{b}{3} $$",
+        "option_c": "$$ L =\\frac{3}{b} $$",
+        "option_d": "$$ L =\\frac{b}{2} $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "The biot number is given by",
+        "qid": 2,
+        "option_a": "$$ Bi = \\frac{1}{hL} $$",
+        "option_b": "$$ Bi = \\frac{hL}{k} $$",
+        "option_c": "$$ Bi = \\frac{1}{k} $$",  
+        "option_d": "$$ Bi = \\frac{k}{hL}$$",
+        "correct_option": "b"
+    },
+    {
+        "question": "Fourier number is given by",
+        "qid": 3,
+        "option_a": "$$ Fo = \\frac{\\alpha t}{L^2} $$",
+        "option_b": "$$ Fo = \\frac{\\alpha}{L^2} $$",
+        "option_c": "$$ Fo = \\frac{t}{L^2} $$",
+        "option_d": "$$ Fo = \\frac{L^2}{\\alpha t}$$",
+        "correct_option": "a"
+    }
+]
